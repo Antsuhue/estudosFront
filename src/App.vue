@@ -27,8 +27,10 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 10px;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 img{
-  margin-bottom: 10px;
+  margin-bottom: 1%;
 }
 </style>
